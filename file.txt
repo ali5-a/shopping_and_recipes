@@ -4,5 +4,5 @@ This is my shopping list:
 - Bread
 - Milk
 - Sugar
-- Bacon
+x Bacon
 

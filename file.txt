@@ -3,6 +3,6 @@ This is my shopping list:
 - Eggs
 - Bread
 - Milk
-- Sugar
+x Sugar
 x Bacon
 

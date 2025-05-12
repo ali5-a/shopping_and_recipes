@@ -2,7 +2,7 @@ This is my shopping list:
 
 - [ ] Eggs
 - [ ] Bread
-- [x] Milk
+- [ ] Milk
 - [x] Sugar
 - [x] Bacon
 
